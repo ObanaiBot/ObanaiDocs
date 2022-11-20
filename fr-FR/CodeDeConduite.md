@@ -22,14 +22,14 @@ Votre profil doit respecter les règles suivantes :
 - Vous ne devez pas envoyer de messages à caractère pornographique, raciste, homophobe, sexiste ou tout autre contenu qui pourrait être considéré comme offensant.
 - Vous ne devez pas envoyer de messages à caractère publicitaire, ou de messages qui incitent à acheter un produit ou un service.
 - Vous ne devez pas envoyer de messages qui incitent à la haine, à la violence ou à la discrimination.
-- Vous ne devez pas envoyer de messages qui incitent à la consommation de drogues ou d'alcool en vous adressant à des membres mineurs.
+- Vous ne devez pas envoyer de messages qui incitent à la consommation de drogues à quiconque. Il est interdit d'inciter à boire de l'alcool en vous adressant à des membres mineurs.
 
 À l'oral :
 - Vos propos doivent être respectueux. Vous ne devez pas offenser les autres membres de la communauté. L'humour est autorisé, mais il doit être approprié ; si les membres concernés vous demandent d'arrêter, faites-le.
 - Vous ne devez pas montrer ou tenir des propos à caractère pornographique, raciste, homophobe, sexiste ou tout autre contenu qui pourrait être considéré comme offensant.
 - Vous ne devez pas tenir des propos à caractère publicitaire, ou de messages qui incitent à acheter un produit ou un service.
 - Vous ne devez pas tenir des propos qui incitent à la haine, à la violence ou à la discrimination.
-- Vous ne devez pas dire de messages qui incitent à la consommation de drogues ou d'alcool en vous adressant à des membres mineurs.
+- Vous ne devez pas dire de messages qui incitent à la consommation de drogues à quiconque. Il est interdit d'inciter à boire de l'alcool en vous adressant à des membres mineurs.
 - Vous ne devez pas crier ou nuire par quelconque moyen à l'appel vocal. Merci d'utiliser du matériel approprié, ou d'utiliser le Appuyer-Pour-Parler.
 - Lorsque vous souhaitez rester muet, privilégiez les salons écrits intégrés aux vocaux. Si vous ne savez pas comment faire cela, demandez à un administrateur.
 
