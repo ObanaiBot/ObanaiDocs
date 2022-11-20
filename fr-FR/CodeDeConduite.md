@@ -1,7 +1,7 @@
 # Préface
 
 Ce code de conduite s'applique à tous les membres de la communauté, dès lors que vous rejoignez ce serveur. Il est important de le lire et de le respecter afin de créer une communauté saine et agréable pour tous.
-En cas de conflit, nous prendrons en considération que vous l'avez lu, et que vous l'avez respecté. Si vous n'êtes pas d'accord avec ce règlement, vous pouvez le quitter à tout moment.
+En cas de conflit, nous prendrons en considération que vous l'avez lu, et que vous l'avez respecté. Si vous n'êtes pas d'accord avec ce règlement, vous pouvez quitter le serveur à tout moment.
 
 # Règles de comportement
 
