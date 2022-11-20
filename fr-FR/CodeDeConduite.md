@@ -81,5 +81,5 @@ Pour utiliser le bot, vous devez au préalable avoir accepté les __Conditions G
 
 Nous vous remercions d'avoir pris connaissance de ce code de conduite. Nous avons hâte de vous rencontrer et d'interagir avec vous !
 
-__Bon séjour, de la part de toute l'équipe. ;)__
+__Bon séjour, de la part de toute l'équipe.__
 
