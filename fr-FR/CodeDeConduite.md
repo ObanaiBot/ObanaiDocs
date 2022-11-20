@@ -1,78 +1,85 @@
----
-> Description : Ensemble des règles à respecter
----
-
 # Préface
 
-En rejoignant ce serveur ou en jouant au bot, vous affirmez avoir lu et pris connaissance de ces règles ci-dessous. Dès lors que vous interagissez avec ce serveur ou avez le bot vous les acceptez automatiquement. En cas de refus de ces règles, vous devrez quitter ce serveur et vous n'êtes pas dans la mesure d'utiliser le service du bot.
+Ce code de conduite s'applique à tous les membres de la communauté, dès lors que vous rejoignez ce serveur. Il est important de le lire et de le respecter afin de créer une communauté saine et agréable pour tous.
+En cas de conflit, nous prendrons en considération que vous l'avez lu, et que vous l'avez respecté. Si vous n'êtes pas d'accord avec ce règlement, vous pouvez le quitter à tout moment.
 
-Ces règles sont amenées à être modifiées à tout moment et sans préavis si notre équipe le juge nécessaire. Vous en serez averti une fois ces changements réalisés.
+# Règles de comportement
 
-Vous devez également prendre connaissance de notre Politique de Confidentialité (https://github.com/PxndxDev/ObanaiDiscordBot/blob/main/LEGAL.md) et de nos Conditions Générales d'Utilisation (https://github.com/PxndxDev/ObanaiDiscordBot/blob/main/TERMS.md).
+## 1. Votre profil
 
-> Dernière modification : 29/08/2022 9 h 20 heure de Paris.
+Votre profil doit respecter les règles suivantes :
+- La photo de profil ne doit pas être à caractère pornographique, raciste, homophobe, sexiste ou tout autre contenu qui pourrait être considéré comme offensant.
+- Le pseudonyme doit être approprié. Il ne doit pas être à caractère pornographique, raciste, homophobe, sexiste ou tout autre contenu qui pourrait être considéré comme offensant. De plus, votre pseudonyme doit respecter une casse cruciale : il doit être mentionable, **c'est-à-dire qu'il doit impérativement commencer par 3 caractères alphanumériques (a-zA-Z) minimum !**
+- Votre Statut ou votre À Propos De Moi ne doit pas porter atteinte à la liberté d'autrui : tout comme votre pseudonyme et votre photo de profil, il ne doit offenser personne.
+> Si vous avez l'abonnement Discord Nitro, vous pourrez changer votre profil sur ce serveur. Ces règles s'appliquent sur votre apparence ici, et non sur votre profil en général.
+> Nous nous réservons le droit de changer votre pseudonyme sans votre avis préalable s'il ne respecte pas ces règles.
 
----
+## 2. Votre comportement
 
-# I. Règles liées au serveur Discord
+À l'écrit :
+- Vos messages doivent être respectueux. Vous ne devez pas offenser les autres membres de la communauté. L'humour est autorisé, mais il doit être approprié ; si les membres concernés vous demandent d'arrêter, faites-le.
+- Vous ne devez pas spammer. Le spam est interdit, que ce soit en message, en emoji, en mention ou en image ou en toute autre forme.
+- Vous ne devez pas envoyer de messages à caractère pornographique, raciste, homophobe, sexiste ou tout autre contenu qui pourrait être considéré comme offensant.
+- Vous ne devez pas envoyer de messages à caractère publicitaire, ou de messages qui incitent à acheter un produit ou un service.
+- Vous ne devez pas envoyer de messages qui incitent à la haine, à la violence ou à la discrimination.
+- Vous ne devez pas envoyer de messages qui incitent à la consommation de drogues ou d'alcool en vous adressant à des membres mineurs.
 
-Ces règles sont applicables au serveur Discord Obanai Support et sont sous la licence MIT du projet GitHub https://github.com/PxndxDev/ObanaiDiscordBot. En cas de copie sans attribution, des poursuites juridiques peuvent s'appliquer.
-
-## 1. Général
-
-- Vous devez respecter tout membre du serveur via vos propos. Tout propos haineux envers une personne, un groupe de personnes, une religion ou autre est totalement sanctionné.
-- Vous devez respecter les sujets des salons de ce serveur Discord. Tout abus sera sanctionné.
-- Utilisez le BSP (Bon Sens Paysan), c'est-à-dire qu'on vous demande d'être logique vis-à-vis de ce que vous faites sur le serveur. Si vous cherchez la définition exacte, c'est une expression (ou demandez à Myrly).
-- Si un staff, un administrateur ou un owner vous demande de faire quelque chose qu'il a justifié lui, vous êtes dans l'obligation de l'écouter (pour éviter de se faire timeout bêtement). Si vous cherchez à en savoir plus, faites un ticket.
-- Des règles peuvent manquer à ce règlement, cependant si un modérateur juge nécessaire de sanctionner pour une règle non mentionnée ici, il en a le droit. Si vous souhaitez faire appel, créez un ticket (sauf si vous êtes banni, auquel cas vous devrez attendre la fin de votre sanction).
-- Comportez-vous de façon à ce que nous n'ayons pas le besoin de rajouter des règles à cette liste.
-- Je précise : ne soyez pas toxique envers les autres membres du serveur (c'est-à-dire ne provoquez pas inutilement quelqu'un). Ce n'est pas cool, et on sévira.
-- Ces règles sont applicables dans les conversations privées aussi ; si vous allez insulter un autre membre du serveur et qu'il s'en plaint, vous serez sanctionné.
-- L'abus d'utilisation de tickets est interdit, et sera sanctionné.
-
-## 2. À l'écrit
-
-- L'encombrement des salons via le pourriel ou spam, c'est la traduction littérale, je sais que c'est moche (action qu'est de copier le même contenu plusieurs fois dans le même message. Cela compte les mentions), le flood (action qu'est d'envoyer des messages à une grande vitesse sans but) et/ou l'abus de majuscule est formellement interdit, et ces abus seront sanctionnés.
-- La publicité via des liens ou autre (comme de simples messages) dans ce serveur Discord est interdite. Une sanction sera appliquée en cas de non-respect.
-- La publication de contenu explicite (NSFW, violences non censurées (genre des vidéos Telegram), le contenu gore, etc.) est interdite. Une sanction sera appliquée en cas de non-respect.
-
-## 3. En vocal
-
-- Un salon vocal est un havre de paix où les gens peuvent échanger librement. Tout encombrement comme des cris, des souffles ou quelconque bruit nuisible (réalisé de manière volontaire) est interdit et sera sanctionné. Si vous ne possédez pas le matériel adéquat, privilégiez le appuyer-pour-parler (ou push-to-talk), ou mutez vous.
+À l'oral :
+- Vos propos doivent être respectueux. Vous ne devez pas offenser les autres membres de la communauté. L'humour est autorisé, mais il doit être approprié ; si les membres concernés vous demandent d'arrêter, faites-le.
+- Vous ne devez pas montrer ou tenir des propos à caractère pornographique, raciste, homophobe, sexiste ou tout autre contenu qui pourrait être considéré comme offensant.
+- Vous ne devez pas tenir des propos à caractère publicitaire, ou de messages qui incitent à acheter un produit ou un service.
+- Vous ne devez pas tenir des propos qui incitent à la haine, à la violence ou à la discrimination.
+- Vous ne devez pas dire de messages qui incitent à la consommation de drogues ou d'alcool en vous adressant à des membres mineurs.
+- Vous ne devez pas crier ou nuire par quelconque moyen à l'appel vocal. Merci d'utiliser du matériel approprié, ou d'utiliser le Appuyer-Pour-Parler.
 - Lorsque vous souhaitez rester muet, privilégiez les salons écrits intégrés aux vocaux. Si vous ne savez pas comment faire cela, demandez à un administrateur.
 
-## 4. Profil
+## 3. Confidentialité
 
-- Vous devez avoir un profil présentable : les photos de profil déplacées (ce qui est considéré comme déplacé : NSFW, apologies de crimes contre l'humanité (exemple: nazisme), violences) sont fortement interdites.
-- Votre pseudo doit être mentionable. S'il ne l'est pas, nous nous réservons le droit de le modifier sans vous demander votre avis au préalable. Ce que nous considérons comme mentionable : les 3 premiers caractères du pseudo doivent être des lettres normales ou des chiffres. Pas de police spéciale (pour que nous puissions vous rechercher avec @).
-- Tous les abus précédents seront sanctionnés.
-- Il est interdit également de manquer de respect à quelqu'un du serveur via le statut ou votre "à propos de moi". Ces abus seront sanctionnés.
+La diffusion d'informations personnelles est interdite, qu'il s'agisse de vous d'une personne du serveur, avec ou sans son consentement.
+Le prénom n'est pas considéré comme un élément personnel jusqu'à ce que la personne ciblée dise l'inverse.
+Toute menace envers un membre du serveur ou même envers la structure du projet en elle-même, par quelque moyen que ce soit comme l'Hacking, le Doxxing, etc., est interdite.
 
-## 5. Confidentialité
+# Règles de jeu sur le bot ObanaiBot
 
-- Il est interdit de partager des informations personnelles aux différents membres du serveur, qu'ils s'agissent de vos informations ou celles d'autrui. Ces abus seront sévèrement sanctionnés (notamment par un report du compte auprès de Discord).
-- Le name reveal est considéré comme du doxxing (en cas de refus de la personne ciblée) et donc peut encourir des sanctions.
-- Le hacking ou toute technique illégale (ou non) visant à pirater des données à des fins malveillantes est interdite et sera sanctionnée.
+## 1. La tricherie
+
+Toute tentative de triche est interdite. Cela inclut :
+- L'exploitation de bugs ou de failles du bot.
+- L'utilisation de scripts ou de programmes tiers pour obtenir des avantages.
+- L'utilisation de macros ou de tout autre moyen pour automatiser des actions.
+- L'utilisation de bots tiers pour obtenir des avantages.
+- L'utilisation de comptes multiples pour obtenir des avantages.
+
+## 2. Les événements
+
+Toute utilisation de doubles comptes afin d'augmenter ses chances de gagner dans les événements est interdite.
+L'utilisation du bot à des fins commerciales non officielles, ou à des fins lucratives est interdite.
+
+## 3. Interactions avec le personnel
+
+En cas de problème avec le bot, vous pouvez contacter le personnel du bot. Si vous êtes victime d'une perte de ressource ou de quelconque élément du jeu suite à un bug, nous ne sommes pas dans l'obligation de vous rembourser.
+De plus, si vous débusquez un bug ou une faille du bot, vous devez en informer le personnel du bot. Si vous ne le faites pas, vous pourriez être sanctionné pour tricherie (exploitation de bugs).
+
+## 4. Attaques
+
+Toute tentative d'attaque par hacking ou toute autre technique informatique sur les services du bot est interdite. Cela inclut :
+- L'attaque par déni de service.
+
+# Informations supplémentaires
+
+## 1. Sanctions
+
+Le staff se réserve le droit d'appliquer des sanctions flexibles adaptées à la situation et au contexte. Par défaut, le staff privilégiera un timeout de quelques minutes afin de décider plus tard de la sanction définitive.
+Si le staff décide d'intervenir pour une règle qui n'a pas été citée ci-dessus et qu'elle est justifiée, il peut. Si vous avez quelconque réclamation à faire, merci de vous adresser au staff, nous serons ravis de vous aider.
+Ce règlement peut possiblement changer à tout moment. Si cela venait à arriver, nous ne sommes pas tenus de vous demander votre avis au préalable, mais nous vous en informerons.
+
+## 2. Utilisation du service du bot
+
+Pour utiliser le bot, vous devez au préalable avoir accepté les __Conditions Générales d'Utilisation__, ainsi qu'avoir pris connaissance de notre __Politique de Confidentialité__.
 
 ---
 
-# II. Règles liées au bot Discord Obanai
+Nous vous remercions d'avoir pris connaissance de ce code de conduite. Nous avons hâte de vous rencontrer et d'interagir avec vous !
 
-Ces règles sont applicables au bot Discord ObanaiBot (identifiant 958433246050406440) et sont sous la licence MIT du projet GitHub https://github.com/PxndxDev/ObanaiDiscordBot. En cas de copie sans attribution, des poursuites juridiques peuvent s'appliquer.
+__Bon séjour, de la part de toute l'équipe. ;)__
 
-- La triche est formellement interdite, par quelconque moyen. Elle sera sévèrement sanctionnée.
-- Si vous trouvez un bug, vous devez le signaler automatiquement à l'équipe de développement, ou à un membre du staff si aucun administrateur du bot n'est connecté. Toute utilisation d'un bug sera sévèrement punie.
-- Si vous perdez des ressources, ou quelconque élément du jeu à cause d'un bug, nous ne sommes pas dans l'obligation de vous rembourser, et vous n'êtes pas dans la position de demander un remboursement de force si nous le refusons.
-- Les techniques de DDOS ou toutes autres techniques de piratage (ou non) visant à causer du tort au processus du bot sont interdites et seront très sévèrement punies (avec report systèmatique à l'équipe de confidentialité de Discord).
-- L'utilisation du bot a des fins commerciales non affiliées à ce serveur Discord est interdite ; Voici un petit exemple : faire payer des utilisateurs sur un serveur privé pour donner l'accès au bot.
-- L'organisation d'événements lucratifs non officialisés par le serveur Discord officiel est interdite.
-
----
-
-# Épilogue
-
-Merci d'avoir lu ces règles dans leur intégralité, nous vous invitons à les respecter. Les sanctions appliquées sont variables et changeront en fonction des règles enfreintes. Si vous avez des questions, vous pouvez toujours contacter un administrateur en privé ou créer un ticket.
-
-En vous remerciant, et en espérant que vous aurez une bonne journée, nous vous souhaitons un bon séjour parmi nous.
-
-Cordialement, l'Équipe du Personnel d'Obanai.
