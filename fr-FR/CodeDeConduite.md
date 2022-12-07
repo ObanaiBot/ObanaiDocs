@@ -2,6 +2,8 @@
 
 Ce code de conduite s'applique à tous les membres de la communauté, dès lors que vous rejoignez ce serveur. Il est important de le lire et de le respecter afin de créer une communauté saine et agréable pour tous.
 En cas de conflit, nous prendrons en considération que vous l'avez lu, et que vous l'avez respecté. Si vous n'êtes pas d'accord avec ce règlement, vous pouvez quitter le serveur à tout moment.
+Les lois Françaises puis Européennes s'appliquent par défaut à ce serveur et écrasent le règlement suivant.
+En cas de litige, la version française sera considérée comme la version officielle et comme version de référence.
 
 # Règles de comportement
 
@@ -23,6 +25,7 @@ Votre profil doit respecter les règles suivantes :
 - Vous ne devez pas envoyer de messages à caractère publicitaire, ou de messages qui incitent à acheter un produit ou un service.
 - Vous ne devez pas envoyer de messages qui incitent à la haine, à la violence ou à la discrimination.
 - Vous ne devez pas envoyer de messages qui incitent à la consommation de drogues à quiconque. Il est interdit d'inciter à boire de l'alcool en vous adressant à des membres mineurs.
+- Vous devez respecter le sujet de chaque salon. Tout abus sera sanctionné.
 
 À l'oral :
 - Vos propos doivent être respectueux. Vous ne devez pas offenser les autres membres de la communauté. L'humour est autorisé, mais il doit être approprié ; si les membres concernés vous demandent d'arrêter, faites-le.
@@ -32,6 +35,7 @@ Votre profil doit respecter les règles suivantes :
 - Vous ne devez pas dire de messages qui incitent à la consommation de drogues à quiconque. Il est interdit d'inciter à boire de l'alcool en vous adressant à des membres mineurs.
 - Vous ne devez pas crier ou nuire par quelconque moyen à l'appel vocal. Merci d'utiliser du matériel approprié, ou d'utiliser le Appuyer-Pour-Parler.
 - Lorsque vous souhaitez rester muet, privilégiez les salons écrits intégrés aux vocaux. Si vous ne savez pas comment faire cela, demandez à un administrateur.
+- Vous devez respecter le sujet de chaque salon. Tout abus sera sanctionné.
 
 ## 3. Confidentialité
 
