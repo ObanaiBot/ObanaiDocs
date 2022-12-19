@@ -1,4 +1,4 @@
-# Code de Conduite
+# Code De Conduite
 
 ---
 
@@ -8,6 +8,7 @@ Ce code de conduite s'applique à tous les membres de la communauté, dès lors 
 En cas de conflit, nous prendrons en considération que vous l'avez lu, et que vous l'avez respecté. Si vous n'êtes pas d'accord avec ce règlement, vous pouvez quitter le serveur à tout moment.
 Les lois Françaises puis Européennes s'appliquent par défaut à ce serveur et écrasent le règlement suivant.
 En cas de litige, la version française sera considérée comme la version officielle et comme version de référence.
+Pour tous les documents juridiques, la version française est la seule version disponible pour éviter les conflits de traduction.
 
 # Règles de comportement
 
