@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc929dd9-3d0c-4940-bff1-21a2270670a1" name="Changes" comment="Modification du code de conduite." />
+    <list default="true" id="dc929dd9-3d0c-4940-bff1-21a2270670a1" name="Changes" comment="Modification du code de conduite.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +78,8 @@
       <workItem from="1668976902655" duration="98000" />
       <workItem from="1670438593465" duration="599000" />
       <workItem from="1671459531944" duration="975000" />
+      <workItem from="1671469148676" duration="33000" />
+      <workItem from="1671469196614" duration="3695000" />
     </task>
     <task id="LOCAL-00001" summary="Première modification du code de conduite">
       <created>1668960379364</created>
