@@ -1,3 +1,7 @@
+# Code de Conduite
+
+---
+
 # Préface
 
 Ce code de conduite s'applique à tous les membres de la communauté, dès lors que vous rejoignez ce serveur. Il est important de le lire et de le respecter afin de créer une communauté saine et agréable pour tous.

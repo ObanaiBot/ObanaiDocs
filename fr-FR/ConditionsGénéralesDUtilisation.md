@@ -1,23 +1,22 @@
----
-> Description: Les conditions générales d'utilisation du service.
----
-
 # Conditions Générales d'Utilisation
 
-## Nos termes
+---
 
-Lorsque nous utiliseront les termes « nous », « nos », « le service » et « le projet », nous ferons allusions au service proposé sur le bot et sur ce document internet.
+
+# Nos termes
+
+Lorsque nous utiliseront les termes « nous », « nos », « le service » et « le projet », nous ferons allusions au service proposé sur le bot et sur ce document.
 
 Lorsque nous utiliserons les termes « vous », « vos », « le client », « l'utilisateur », nous ferons référence à quiconque personne lisant ce document et qui accepte ces conditions.
 
-> En vous inscrivant sur le service qu'est le projet Obanai, vous confirmez avoir lu, pris connaissance et accepté les conditions générales d'utilisation ci-dessous, ainsi que les Discord Terms of Services.
+> En vous inscrivant sur le service qu'est le projet Obanai, vous confirmez avoir lu, pris connaissance et accepté les Conditions Générales d'Utilisation ci-dessous, ainsi que les Discord Terms of Services.
 
-> En cas de non accord avec ces termes, l'utilisation du service n'est pas autorisée.
+> En cas de non-accord avec ces termes, l'utilisation du service n'est pas autorisée.
 
 
 ## Licence
 
-Le contenu écrit et utilisé sur ce service est sous licence MIT.
+L'ensemble du code du projet est sous licence MIT. Les contenus multimédias tels que les images, les vidéos, les sons, etc. sont sous licence `CC BY-NC-ND 4.0`.
 
 ## Responsabilités
 
@@ -27,9 +26,9 @@ Certaines juridictions n'autorisent pas les limitations sur les garanties implic
 
 ## Utilisation du service
 
-Tout utilisateur souhaitant faire appel au service se doit de respecter impérativement les règles établies par les administrateurs. Ces règles sont lisibles sur le serveur Discord officiel. En cas de non respect de ces règles, vous vous exposez à des sanctions.&#x20;
+Tout utilisateur souhaitant faire appel au service se doit de respecter impérativement les règles établies par les administrateurs. Ces règles sont lisibles sur le serveur Discord officiel. En cas de non-respect de ces règles, vous vous exposez à des sanctions.
 
-Tout non respect de ces règles est donc formellement interdit.
+Tout non-respect de ces règles est donc formellement interdit.
 
 ## Fiabilité
 
@@ -41,7 +40,7 @@ Si vous êtes en conflit avec des services tier autres qui ne sont pas liés à 
 
 ## Modifications de ces termes
 
-Ces conditions générales d'utilisation du service sont amenées à être changées en cas de nécessité, et nous vous informons que nous ne sommes pas dans l'obligation de vous en tenir informé. En utilisant le service, vous acceptez directement ces termes et vous approuvé les avoir lu et les avoir pris en compte.
+Ces conditions générales d'utilisation du service sont amenées à être changées en cas de nécessité, et nous vous informons que nous ne sommes pas dans l'obligation de vous en tenir informé. En utilisant le service, vous acceptez directement ces termes et vous approuvez les avoir lues et les avoir prises en compte.
 
 ## Lois
 
@@ -49,10 +48,8 @@ Toute réclamation liée au service sera régie par les lois françaises et euro
 
 ## Confidentialité
 
-Merci de prendre connaissance de notre politique de confidentialité.
+Merci de prendre connaissance de notre Politique De Confidentialité.
 
 ## Sanctions
 
-Comme justifié ci-dessus, tout non respect des règles de communauté (Discord) ou de ces conditions générales d'utilisation vous amèneront à des sanctions justifiables et justifiées.&#x20;
-
-> Dernière modification des termes : 30/07/2022 10h41 heure de Paris.
+Comme justifié ci-dessus, tout non-respect des règles de communauté (Discord) ou de ces conditions générales d'utilisation vous amèneront à des sanctions justifiables et justifiées.
